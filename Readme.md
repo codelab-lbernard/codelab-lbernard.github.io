@@ -1,3 +1,3 @@
-# Prévention sur les usages des Réseaux Sociaux
+# Protéger son identité numérique
 
-Diaporama pour le colloque e-santé - 10/12/14 Nantes
+Diaporama Atelier du 7/01/15 - Nantes
