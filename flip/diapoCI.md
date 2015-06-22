@@ -1,4 +1,4 @@
-# La Classe inversée coucou
+# La Classe inversée
 ### * &ldquo; Des intentions aux outils de captation vidéo &rdquo;*
 Atelier Canopé de Nantes
 
